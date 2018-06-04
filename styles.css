@@ -1,0 +1,33 @@
+/* add your CSS here */
+body{
+  margin: 0 auto;
+  border: solid 1px #dbe2e8;
+  border-radius: 4px;
+  width: 330px;
+  -webkit-box-shadow: 9px 10px 3px 0px rgba(0,0,0,0.14);
+  -moz-box-shadow: 9px 10px 3px 0px rgba(0,0,0,0.14);
+  box-shadow: 9px 10px 3px 0px rgba(0,0,0,0.14);
+}
+.animalcard{
+  padding: 0px 15px 15px 15px;
+}
+img{
+  border-radius: 4px;
+}
+.animaldetails{
+  border: solid 1px #dbe2e8;
+  padding: inherit;
+  border-radius: 4px;
+  margin-top: 15px;
+}
+.animalfacts{
+  font-style: italic;
+}
+.liststyle{
+  list-style: none;
+  list-style-position: outside;
+  padding: 0;
+}
+.animallabels{
+  font-weight: bold;
+}
